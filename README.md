@@ -15,33 +15,27 @@
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 1 — The Small-Business Brain (WhatsApp-first)](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-1--the-small-business-brain-whatsapp-first)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+A home-based lunch box (tiffin) business owner in Pakistan who serves daily homemade meals to office workers and university students and manages all customer inquiries and orders through WhatsApp Business.
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+Every day, the owner spends a significant amount of time answering the same WhatsApp questions about today's menu, prices, delivery areas, availability, subscriptions, and order status. While preparing meals and coordinating deliveries, they manually handle every conversation, leading to delayed responses, missed orders, and lost customers during busy hours or after business hours.
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+A WhatsApp AI assistant that answers customer queries using the business's menu, pricing, and policies, takes customer orders, and hands confirmed orders to the owner through a simple dashboard or a sheet etc for fulfillment.
+
+### The one number that proves people want it
+
+At least 5 home-based lunch box businesses actively using our WhatsApp AI assistant for real customer conversations, with owners confirming that it reduced the time spent handling repetitive WhatsApp inquiries.
+
+### Why we picked this idea
+
+We chose this idea because it addresses a real operational problem for businesses that already rely heavily on WhatsApp to communicate with customers. It is focused enough to build and validate within eight weeks, and we can directly reach and interview business owners to understand their workflows, gather feedback, and test our solution with real users instead of relying on assumptions.
 
 ---
 
