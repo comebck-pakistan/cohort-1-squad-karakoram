@@ -11,6 +11,13 @@
 - Pakeeza Ishaq
 - Abdul Basit
 
+**GitHub usernames:**
+
+- [@Hassan-Faisal](https://github.com/Hassan-Faisal)
+- [@PakeezaIshaq](https://github.com/PakeezaIshaq)
+- [@maryamfarhan](https://github.com/maryamfarhan)
+- [@abdulbasit137](https://github.com/abdulbasit137)
+
 ---
 
 ## 💡 Our Idea
