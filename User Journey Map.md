@@ -1,6 +1,6 @@
 ```mermaid
 journey
-    title Noor Api's Day — Before vs After Small-Business Brain
+    title Owner's Day — Before vs After Small-Business Brain
 
     section 7 AM — Morning starts
       Reads 10+ messages already waiting: 1: Before
