@@ -14,9 +14,9 @@ flowchart LR
     end
 
     subgraph SOLUTIONS["Features and design decisions"]
-        S1[Bot answers from live data\nFlow A · Menu Management]
+        S1[Bot answers from live data\n Menu Management]
         S2[Intent router handles all  flows\nAll repetitive queries covered]
-        S3[Live cap enforcement\nFlow C · Inventory Management]
+        S3[Live cap enforcement\n Inventory Management]
         S4[Always-on instant reply\nNotification Service]
         S5[Auto cutoff enforcement\nBusiness Settings]
         S6[Orders Management board\nStatus tracking and pending alerts]
