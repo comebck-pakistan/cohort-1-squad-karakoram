@@ -1,16 +1,16 @@
 ```mermaid
 flowchart LR
     subgraph PROBLEMS["Pain points — all 6 interviews and survey"]
-        P1[Status not seen by customers\nNoor · Lahore Sweets · Duke's]
-        P2[Same questions answered all day\n4 of 7 survey · Noor · Shagufta · Zoha]
-        P3[Manual cap tracking in memory\nNoor · Mahnoor]
-        P4[Lost customers when offline\nMahnoor · 3 of 7 survey]
-        P5[Orders arriving after cutoff\nNoor · Shagufta]
-        P6[Active orders buried in inbox\nDuke's Cafe — peak hours]
-        P7[Price negotiation after sharing\nShagufta · Duke's]
-        P8[Missed DMs in message requests\nZoha — Instagram]
-        P9[Customer hesitancy to pay online\nZoha · Mahnoor]
-        P10[Businesses turn off WhatsApp\nLahore Sweets — overload]
+        P1[Status not seen by customers]
+        P2[Same questions answered all day]
+        P3[Manual cap tracking in memory]
+        P4[Lost customers when offline]
+        P5[Orders arriving after cutoff]
+        P6[Active orders buried in inbox during peak hours]
+        P7[Price negotiation after sharing]
+        P8[Missed DMs in message requests]
+        P9[Customer hesitancy to pay online]
+        P10[Businesses turn off WhatsApp]
     end
 
     subgraph SOLUTIONS["Features and design decisions"]
